@@ -1,12 +1,11 @@
 {
   "app": "sekai",
-  "version": "1.2.2",
-  "versionCode": 1002002,
-  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.2.2",
+  "version": "1.2.4",
+  "versionCode": 1002004,
+  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.2.4",
   "mandatory": true,
   "publishedAt": "2026-11-22",
   "changelog": [
-    "Fixed the laggy, trailing interface when scrolling fast with a TV remote: focus scrolling is instant now instead of animating after every step.",
-    "Sekai has a new GitHub home: github.com/ozipoetra/SekaiApp. This update points the app at it and is required — older versions can no longer check for updates from the old address."
+    "The quality menu now holds focus while it is open: opening it lands on the current quality, arrow keys move between the choices only, Back closes the menu, and focus returns to the quality button afterwards."
   ]
 }

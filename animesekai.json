@@ -1,11 +1,16 @@
 {
   "app": "sekai",
-  "version": "1.2.4",
-  "versionCode": 1002004,
-  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.2.4",
+  "version": "1.2.5",
+  "versionCode": 1002005,
+  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.2.5",
   "mandatory": true,
   "publishedAt": "2026-11-22",
   "changelog": [
-    "The quality menu now holds focus while it is open: opening it lands on the current quality, arrow keys move between the choices only, Back closes the menu, and focus returns to the quality button afterwards."
+    "New desktop sidebar: a slim rail that expands when you hover or focus it, with the Kuronime/Oppa switcher at the bottom and a frosted-glass look while open.",
+    "The mobile dock is redesigned as a full-width frosted-glass bar with the active tab highlighted.",
+    "Downloads page redesigned: series are grouped in collapsible cards, episodes show their TMDB names and stills, and finished downloads show when they were downloaded.",
+    "Posters and covers now fade in smoothly as they load, and the Profile tabs animate when you switch between them.",
+    "Remote fix: on remotes that show up as several gamepads at once, one press now moves exactly one step.",
+    "The app fonts are bundled with the app, so the first open after installing is fast and everything renders fully offline."
   ]
 }

@@ -1,15 +1,18 @@
 {
   "app": "sekai",
-  "version": "1.3.2",
-  "versionCode": 1003002,
-  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.3.2",
+  "version": "1.4.0",
+  "versionCode": 1004000,
+  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.4.0",
   "mandatory": true,
-  "publishedAt": "2026-11-24",
+  "publishedAt": "2026-11-25",
   "changelog": [
-    "Remote/TV navigation overhaul: Home opens focused on Watch Now, every page remembers where you left it, and sidebar crossings are clearer — the page dims and resizes beside the open drawer",
-    "Fixed: switching episodes could throw focus down to the episode list and scroll the page — focus stays on the player now",
-    "Fixed: returning to the top of Home could show only the bottom of the carousel — it stays framed now",
-    "Loading placeholders and the About changelog are reachable with the remote",
-    "Sync is lighter: uploads send only the entries that changed instead of your whole history and favorites"
+    "New provider: Komiku — read manga, manhwa and manhua in the app: a vertical reader that loads pages in reading order, pinch to zoom on touch screens, offline chapter downloads, and reading progress and bookmarks that sync with your account.",
+    "New provider: AnimeXin — a donghua catalog with its own weekly schedule, genre and status filters, and switchable soft subtitles in the player on supported episodes (Indonesian, English, and more).",
+    "AnimeXin episodes can be downloaded for offline watching, subtitle files included — and downloads now always keep their audio, fixing silent playback on some sources.",
+    "More episodes play: titles whose only source is GDrivePlayer now resolve and play instead of showing as unavailable.",
+    "Posters and covers load faster: catalog images are resized for your screen instead of downloading the full-size originals.",
+    "A new welcome flow for first-time users: pick a provider, then sign in or continue as a guest — the app opens on your pick.",
+    "The Watch page starts faster: the player appears as soon as the video is ready, while the series details and episode list fill in below it.",
+    "Error and info messages are clearer everywhere — they say what happened and what to do next — and the crash screen is now a calm page with retry and home buttons instead of a stack of technical text."
   ]
 }

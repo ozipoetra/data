@@ -1,17 +1,18 @@
 {
   "app": "sekai",
-  "version": "1.4.1",
-  "versionCode": 1004001,
-  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.4.1",
+  "version": "1.4.2",
+  "versionCode": 1004002,
+  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.4.2",
   "mandatory": true,
   "publishedAt": "2026-11-26",
   "changelog": [
-    "Pencocokan TMDB lebih akurat, termasuk judul alternatif Oppa",
-    "Seek video langsung bekerja pada tap pertama",
-    "Reader komik: skeleton loading dan retry halaman gagal",
-    "Perbaikan crash saat membuka reader komik",
-    "Penyimpanan dan sinkronisasi dibangun ulang, lebih efisien",
-    "Dukungan mode pemeliharaan",
-    "Catatan: riwayat dan favorit diatur ulang untuk penyimpanan baru"
+    "Kartu favorit Komiku diseragamkan dengan kartu video",
+    "Riwayat komik: progres seri X/Y chapter",
+    "Perbaikan hitungan unduhan di Pengaturan (unduhan manga kini terhitung)",
+    "Backdrop TMDB di carousel Beranda kini cocok dengan halaman detail",
+    "Backdrop carousel Beranda lebih akurat (pencarian web TMDB)",
+    "Jumlah tontonan di carousel Beranda dihilangkan",
+    "Sponsor kini tampil setiap 4 jam",
+    "Latar modal pembaruan kini blur"
   ]
 }

@@ -1,18 +1,17 @@
 {
   "app": "sekai",
-  "version": "1.4.0",
-  "versionCode": 1004000,
-  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.4.0",
+  "version": "1.4.1",
+  "versionCode": 1004001,
+  "notesUrl": "https://github.com/ozipoetra/SekaiApp/releases/tag/v1.4.1",
   "mandatory": true,
-  "publishedAt": "2026-11-25",
+  "publishedAt": "2026-11-26",
   "changelog": [
-    "New provider: Komiku — manga, manhwa & manhua with offline chapters and sync.",
-    "New provider: AnimeXin — donghua with schedule, filters and soft subtitles.",
-    "AnimeXin downloads work offline, subtitles included — downloads keep their audio too.",
-    "GDrivePlayer-only episodes now play instead of showing as unavailable.",
-    "Posters and covers load faster.",
-    "New welcome flow — pick a provider, sign in or continue as guest.",
-    "Watch opens faster: the player shows first, details fill in below.",
-    "Clearer error messages and a friendlier crash screen."
+    "Pencocokan TMDB lebih akurat, termasuk judul alternatif Oppa",
+    "Seek video langsung bekerja pada tap pertama",
+    "Reader komik: skeleton loading dan retry halaman gagal",
+    "Perbaikan crash saat membuka reader komik",
+    "Penyimpanan dan sinkronisasi dibangun ulang, lebih efisien",
+    "Dukungan mode pemeliharaan",
+    "Catatan: riwayat dan favorit diatur ulang untuk penyimpanan baru"
   ]
 }
